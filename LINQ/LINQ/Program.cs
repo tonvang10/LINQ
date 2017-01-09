@@ -27,6 +27,8 @@ namespace LINQ
             classGrade.GetAverageOfAverageGrades();
 
             Function function = new Function();
+            function.CountLetters();
+            function.SortLetters();
             Console.ReadKey();
         }
     }
