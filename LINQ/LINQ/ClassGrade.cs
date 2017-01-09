@@ -24,7 +24,7 @@ namespace LINQ
             harlemGrade = new List<int>() { 90, 95, 85, 80, 100, 85 };
             aysonGrade = new List<int>() { 100, 95, 95, 90, 95, 100 };
             jackieGrade = new List<int>() { 95, 95, 85, 90, 95, 85 };
-            tonGrade = new List<int>() { 50, 10, 40, 100, 70, 35 };
+            tonGrade = new List<int>() { 50, 100, 70, 37, 38, 10 };
         }
         public void ShowAllGrades()
         {
